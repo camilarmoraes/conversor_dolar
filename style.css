@@ -1,0 +1,64 @@
+html{
+  font-family: 'Syne Mono', monospace;
+
+}
+
+.title{
+  font-size:45px;
+  color: chocolate;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 2px 2px black;
+}
+
+body{
+  background-color:white;
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm2msaber.com.br%2Fimages%2Fead%2Fefeito-de-moedas-estrangeiras-e-conversao-de-dfs.jpg&f=1&nofb=1);
+  font-family: inherit;
+}
+
+
+.convert{
+  font-size:30px;
+  text-align: center;
+  background-color: gray;
+  padding:15px;
+  border:10px solid rgb(54, 54, 54);
+  color:white;
+}
+.dolar{
+  margin-left: 20px;
+}
+
+.button{
+  font-size:25px;
+  background-color:burlywood;
+  padding: 10px;
+  border-radius: 2px 2px;
+  font-family: inherit;
+  box-shadow:2px 2px 0 black;
+  cursor:pointer;
+  
+}
+.button:hover{
+  transform:scale(1.1);
+}
+.real{
+  padding:10px;
+  font-family: inherit;
+}
+
+.label{
+  padding:10px;
+  border:10px;
+  
+}
+
+.subtitle{
+  color:chocolate;
+  text-shadow: 1px 1px black;
+}
+
+strong{
+  text-decoration:underline black;
+}
